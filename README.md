@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - :books: Atualmente estou estudando Desenvolvimento Web
-- :handshake: Estou procurando colaborar em Desenvolvimeto Front-end
+- :handshake: Estou procurando colaborar em Desenvolvimento Front-end
 
 ## :zap: Estatísticas GitHub
 
