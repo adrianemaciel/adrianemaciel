@@ -11,8 +11,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianemaciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </div>
 
+<img align="right" width="350px" alt="Octocat-Adriane" src="https://i.postimg.cc/26HV8Q4L/octocat-1664567542809.png" />
+
 ## Ferramentas e Tecnologias
 <div>
+ 
   <img align="center" alt="Html5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   <img align="center" alt="Css3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
   <img align="center" alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
