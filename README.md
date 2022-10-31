@@ -7,8 +7,8 @@
 ## :zap: Estatísticas GitHub
 <div>
   <a href="https://github.com/adrianemaciel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianemaciel&layout=compact&langs_count=7&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianemaciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianemaciel&layout=compact&langs_count=7&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adrianemaciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </div>
 
 <img align="right" width="350px" alt="Octocat-Adriane" src="https://i.postimg.cc/26HV8Q4L/octocat-1664567542809.png" />
