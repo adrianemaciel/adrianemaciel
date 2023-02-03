@@ -1,7 +1,7 @@
 # Olá, me chamo Adriane Maciel! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- :books: Atualmente estou estudando Desenvolvimento Web
+- :books: Graduanda em Análise e Desenvolvimento de Sistemas
 - :handshake: Estou procurando colaborar em Desenvolvimento Front-end
 
 ## :zap: Estatísticas GitHub
