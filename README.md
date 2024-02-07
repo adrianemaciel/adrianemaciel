@@ -23,10 +23,10 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA31F7&repeat=false&width=435&lines=Learning%3A" alt="Typing SVG" /></a>
 
 <div>
-  <img align="center" alt="React" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="React" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="React" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="React" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-
+          
 <div align="center"> 
 
 ![Snake animation](https://github.com/adrianemaciel/adrianemaciel/blob/output/github-contribution-grid-snake.svg)
