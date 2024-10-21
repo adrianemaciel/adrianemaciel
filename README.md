@@ -1,6 +1,6 @@
 <div align="center"> 
-  <h1>Hello, I'm Adriane Maciel</h1>
-  <p>Front-End Developer</p>
+  <h1>Olá, me chamo Adriane Maciel</h1>
+  <p> Desenvolvedora Front-End</p>
 </div>
 
 ## Sobre Mim
@@ -9,7 +9,7 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces intuitivas e ef
 ## Projetos Relevantes
 
 - [Nunes Sports](https://github.com/adrianemaciel/nunes_sports) - Sistema de gerenciamento de produtos para uma loja de esportes fictícia. (React + Supabase)
-- [Portfólio Pessoal](https://github.com/adrianemaciel/my-portfolio-react-2.0) - Portfólio de desenvolvedora com projetos e habilidades, feito com Vite + React + Material UI.
+- [Portfólio Pessoal](https://github.com/adrianemaciel/my-portfolio-react-2.0) - Portfólio em desenvolvimento com projetos e habilidades, feito com Vite + React + Material UI.
 
 ## Habilidades
 
