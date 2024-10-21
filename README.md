@@ -17,7 +17,7 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces intuitivas e ef
 - **Front-End**: React, Material UI, Styled Components
 - **Back-End**: Node.js, Express
 - **Banco de Dados**: MySQL, Supabase
-- **Ferramentas**: Git, Vite, Figma
+- **Ferramentas**: Git, Vite, Figma, Postman
 
 ## Oportunidades
 
