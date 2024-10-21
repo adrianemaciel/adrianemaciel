@@ -8,8 +8,8 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces intuitivas e ef
 
 ## Projetos Relevantes
 
-- [Nunes Sports](https://github.com/adrianemaciel/nunes-sports) - Sistema de gerenciamento de produtos para uma loja de esportes fictícia. (React + Supabase)
-- [Portfólio Pessoal](https://github.com/adrianemaciel/portfolio) - Portfólio de desenvolvedora com projetos e habilidades, feito com Vite + React + Material UI.
+- [Nunes Sports](https://github.com/adrianemaciel/nunes_sports) - Sistema de gerenciamento de produtos para uma loja de esportes fictícia. (React + Supabase)
+- [Portfólio Pessoal](https://github.com/adrianemaciel/my-portfolio-react-2.0) - Portfólio de desenvolvedora com projetos e habilidades, feito com Vite + React + Material UI.
 
 ## Habilidades
 
