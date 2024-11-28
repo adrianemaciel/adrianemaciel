@@ -26,7 +26,7 @@ Atualmente, busco oportunidades como desenvolvedora fullstack, aplicando React e
 ## Contato
 
 - [Email](mailto:contato@adrianemaciel.developer)
-- [LinkedIn](https://www.linkedin.com/in/adrianemacieldeveloper)
+- [LinkedIn](https://www.linkedin.com/in/adrianemaciel)
 
 <div align="center">
    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianemaciel&layout=compact&langs_count=7&theme=tokyonightt" />
