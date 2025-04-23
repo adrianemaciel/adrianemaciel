@@ -14,7 +14,7 @@ Sou uma desenvolvedora front-end apaixonada por criar interfaces intuitivas e ef
 ## Habilidades
 
 - **Linguagens**: JavaScript, HTML, CSS, SQL
-- **Front-End**: React, Material UI, Styled Components
+- **Front-End**: React, Material UI, TailwindCSS
 - **Back-End**: Node.js, Express
 - **Banco de Dados**: MySQL, Supabase
 - **Ferramentas**: Git, Vite, Figma, Postman
