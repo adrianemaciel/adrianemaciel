@@ -7,10 +7,10 @@
 
 ## Sobre Mim
 
-* **Estudante de Análise e Desenvolvimento de Sistemas.**
+* **Formanda Análise e Desenvolvimento de Sistemas.**
 * Experiência em **suporte técnico e desenvolvimento de software**.
 * Atualmente, **estagiária de TI na Secretaria Municipal de Saúde de Porto Alegre**.
-* Interesse em **banco de dados**: MySQL, SQL.
+* Interesse em **Teste de Qualidade de Software**: Teste manuais e automáticos.
 
 ---
 
