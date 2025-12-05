@@ -1,23 +1,32 @@
 <div align="center">
   <h1>Olá, me chamo Adriane Maciel</h1>
-  <p>Desenvolvedora Front-End</p>
+  <p>Analista e Desenvolvedora de Sistemas</p>
 </div>
 
 ---
 
 ## Sobre Mim
 
-* **Formanda Análise e Desenvolvimento de Sistemas.**
-* Experiência em **suporte técnico e desenvolvimento de software**.
-* Atualmente, **estagiária de TI na Secretaria Municipal de Saúde de Porto Alegre**.
+* **Formada em Análise e Desenvolvimento de Sistemas.**
+* Experiência em **desenvolvimento de software e suporte técnico**.
+* Foco em **Desenvolvimento FullStack**
 * Interesse em **Teste de Qualidade de Software**: Teste manuais e automáticos.
 
 ---
 
 ## Projetos Relevantes
 
-- [Nunes Sports](https://github.com/adrianemaciel/nunes_sports) - Sistema de gerenciamento de produtos para uma loja de esportes fictícia. (React + Supabase)
 - [Portfólio Pessoal](https://github.com/adrianemaciel/my-portfolio-react-2.0) - Portfólio em desenvolvimento com projetos e habilidades, feito com Vite + React + Material UI.
+- [Nunes Sports](https://github.com/adrianemaciel/nunes_sports) - Sistema de gerenciamento de produtos para uma loja de esportes fictícia. (React + Supabase)
+  
+---
+
+## Projeto FullStack em Desenvolvimento
+### FrontEnd:
+- [Trip Route Manager App](https://github.com/adrianemaciel/trip-route-manager-app.git) - Uma aplicação que permite aos usuários planejar e gerenciar suas viagens.
+
+### BackEnd:
+- [Trip Route Manager Api]() - API REST com Express.
 
 ---
 
